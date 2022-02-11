@@ -2,8 +2,8 @@
 - 👀 I’m interested in exploring the universe.
 - 🌱 I’m currently learning python,c,robotics.
 - 💞️ I’m looking to collaborate on almost everything,any exposure possible,i want it as im just a beginner.
-- 📫 How to reach me @rudra.1707 (instagram).
-- ❤️ partner @ 
+- 📫 How to reach me.
+- ❤️ partner @nishthetic03.
 
 <!---
 rudy0127/rudy0127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
